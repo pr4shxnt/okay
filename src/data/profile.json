@@ -1,14 +1,14 @@
 {
   "name": "Prashant Adhikari",
-  "tagline": "DevOps & Cloud Engineer in the making ",
+  "tagline": "Full-stack Developer (MERN)",
   "photo": "profile.jpg",
-  "roll": "4447",
+  "roll": "21",
   "department": "Computer Engineering",
   "year": "2024",
   "email": "student@prashantadhikari7.com.np",
   "gpa": "4.00",
-  "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
-  "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
+  "about": "Full-stack developer from Kathmandu building with the MERN stack and TypeScript. I've shipped everything from an NFC-based transit payment system and an eSewa npm library to Solana web3 apps, a meeting scheduler, and plenty of portfolios along the way. Currently learning DevOps so my projects deploy themselves.",
+  "skills": ["JavaScript", "TypeScript", "React", "Node.js", "Express", "MongoDB", "Python", "Solana", "Git", "GitHub Actions", "AWS"],
   "links": {
     "github": "https://github.com/pr4shxnt",
     "linkedin": "https://www.linkedin.com/in/prashantadhikari7"
